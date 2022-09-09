@@ -1,0 +1,17 @@
+{
+    "ownerNumber": "6285742235361@s.whatsapp.net", 
+    "ownerName": "NAUFAL MR", 
+    "botName": "SKY BOT",
+    "footer": "© SKY BOT | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© SKYZO",
+        "author": "Naufal MR"
+    }
+}
